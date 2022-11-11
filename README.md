@@ -25,12 +25,12 @@
         <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
         <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />    
         <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-plain.svg" />
 </div>
  
  ### I'm updating:  :books:
 <div>
         <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-plain.svg" />
         <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/angularjs/angularjs-plain.svg" />
         <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/python/python-original.svg" />
         <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
