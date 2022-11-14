@@ -41,6 +41,8 @@
 <div>
         <img width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
         <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+        <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/eclipse.svg" />
+        <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/intellij.svg" />
         <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/visualstudio/visualstudio-plain.svg" />
 </div>
 
